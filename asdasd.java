@@ -12,6 +12,8 @@ public class lectura {
 		
 		System.out.println ("Total:" + lado*lado);
 		int area=(int) (Math.PI*lado);
+
+		System.out.println ("Haciendo algunos cambios desde VSCodium y actualizándolos desde el GH-Desktiop");
 		 
 
 	}
